@@ -5,7 +5,8 @@
 set-exo
 
 ps-ef
-
+df -h
+fdisk -l
 date
 
 touch file1 file2
