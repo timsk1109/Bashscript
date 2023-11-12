@@ -1,0 +1,13 @@
+#!/bin/bash
+# author Timothy
+# Date: 11/11/23
+
+set-exo
+
+ps-ef
+
+date
+
+touch file1 file2
+
+
