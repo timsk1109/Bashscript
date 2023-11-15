@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# if statements.
+
+name=kalu
+
+if [ $name = kalu ]
+then
+    echo "this my name"
+fi
+
+if  

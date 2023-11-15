@@ -2,15 +2,16 @@
 # author Timothy
 # Date: 11/11/23
 
+set-exo
+
+df -h
+
+fdisk -l
+
+ps-ef
 
 date
 
-touch file1 file2
+#touch file1 file2
 
-expr 40 + 20
-expr 10 - 32
-name=kalu
-age=34
-dob=11/09/89
 
-echo "my first name is $name and i'm $age years old. I was born on the $dob by my mother and father"
